@@ -1,0 +1,15 @@
+Package: hemeshp
+Version: 1.0-1
+Architecture: all
+Maintainer: Hemesh <nsaru009@gmail.com>
+Depends: python3
+Filename: pool/main/h/hemeshp/hemeshp_1.0-1_all.deb
+Size: 2004
+MD5sum: a39392375bc79d210d72db6703579b20
+SHA1: 90874e0d82f6d24fdc4301e9e5194faf28c1946a
+SHA256: 0914b3321bdcf27cac201c3575567319da5936f5eb4620b34c12e574751a3546
+Section: utils
+Priority: optional
+Description: HemeshP - A simple scripting language like Bash, written by Hemesh
+ A small scripting language with make/bash style syntax and native support for targets, variables, and commands.
+

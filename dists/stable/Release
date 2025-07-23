@@ -1,0 +1,7 @@
+Origin: HemeshP
+Label: HemeshP
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Hemesh's custom repo
